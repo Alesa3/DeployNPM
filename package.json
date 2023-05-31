@@ -1,0 +1,26 @@
+{
+  "name": "deploynpm",
+  "version": "1.0.0",
+  "description": "deploy",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alesa3/DeployNPM.git"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "alesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alesa3/DeployNPM/issues"
+  },
+  "homepage": "https://github.com/Alesa3/DeployNPM#readme",
+  "dependencies": {
+    "click-btn-q": "^1.0.0",
+    "display-btn-q": "^1.0.1"
+  }
+}
