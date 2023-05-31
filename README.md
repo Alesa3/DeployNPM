@@ -1,4 +1,4 @@
 # npm-package
 
-Create two npm packages
-Deploy with Netflify
+- Create two npm packages
+- Deploy with Netflify
