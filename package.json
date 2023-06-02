@@ -21,6 +21,10 @@
   "homepage": "https://github.com/Alesa3/DeployNPM#readme",
   "dependencies": {
     "click-btn-q": "^1.0.0",
-    "display-btn-q": "^1.0.1"
+    "display-btn-q": "^1.0.2",
+    "webpack": "^5.85.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.1"
   }
 }
